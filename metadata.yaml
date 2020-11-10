@@ -1,5 +1,8 @@
 _repo: Olvasas-kozben_63611
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ignotus
@@ -16,6 +19,8 @@ creator:
     - https://hu.wikipedia.org/wiki/Ignotus_Hug%C3%B3
     - https://en.wikipedia.org/wiki/Ignotus
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63611#Olvasas-kozben
 gutenberg_issued: '2020-11-03'
 gutenberg_type: Text
 identifiers:
